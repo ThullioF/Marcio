@@ -1,11 +1,20 @@
-- Verde
+# Projeto
+  Realizado em React, esse projeto tem como objetivo o cadastro de novos itens em uma lista e a possibilidade da troca de cor da página
+
+# Cores testadas:
+
+## Verde
 ![image](https://github.com/user-attachments/assets/2e810edb-957e-4a48-a2ba-6f9c4276c3a7)
 
+## Branco
 ![branco](https://github.com/user-attachments/assets/99e3a55e-60f0-41cc-92d7-276d44af2648)
 
+## Azul
 ![azul](https://github.com/user-attachments/assets/18bf0032-d92e-4b5d-8b4c-8b3a0fd08fdb)
 
+## Vermelho
 ![vermelho](https://github.com/user-attachments/assets/a9a2d716-1b98-4e24-9734-5f9e2400ebcb)
+
 
 # Getting Started with Create React App
 
